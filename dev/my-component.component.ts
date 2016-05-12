@@ -2,9 +2,9 @@ import {Component} from 'angular2/core';
 
 @Component({
     selector: 'my-component',
-    template: '
+    template: `
         This is my component!
-    '
+    `
 })
 export class MyComponentComponent {
     
